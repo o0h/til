@@ -84,19 +84,19 @@ Pandasを使うと、
 
 ### ex:1
 
-[dataframe_1.ipynb](https://github.com/o0h/til/blob/master/notes/dataframe_1.ipynb)
+[dataframe_1.ipynb](https://github.com/o0h/til/blob/master/begin-pandas/notes/dataframe_1.ipynb)
 
 +++
 
 ### 列に名前をつけてあげる
 
-[dataframe_2.ipynb](https://github.com/o0h/til/blob/master/notes/dataframe_2.ipynb)
+[dataframe_2.ipynb](https://github.com/o0h/til/blob/master/begin-pandas/notes/dataframe_2.ipynb)
 
 +++
 
 ### 行に名前をつけてあげる
 
-[dataframe_3.ipynb](https://github.com/o0h/til/blob/master/notes/dataframe_3.ipynb)
+[dataframe_3.ipynb](https://github.com/o0h/til/blob/master/begin-pandas/notes/dataframe_3.ipynb)
 
 +++
 
@@ -104,7 +104,7 @@ Pandasを使うと、
 
 ※辞書 = マップ型。連想配列、ハッシュに相当
 
-[dataframe_4.ipynb](https://github.com/o0h/til/blob/master/notes/dataframe_4.ipynb)
+[dataframe_4.ipynb](https://github.com/o0h/til/blob/master/begin-pandas/notes/dataframe_4.ipynb)
 
 ---
 
@@ -122,7 +122,7 @@ Pandasを使うと、
 
 next: 表中のデータへのアクセス(番地)がとっても簡単
 
-[dataframe_5.ipynb](https://github.com/o0h/til/blob/master/notes/dataframe_5.ipynb)
+[dataframe_5.ipynb](https://github.com/o0h/til/blob/master/begin-pandas/notes/dataframe_5.ipynb)
 
 ---
 
@@ -134,7 +134,7 @@ next: 表中のデータへのアクセス(番地)がとっても簡単
 
 next: 表中のデータの絞込がとっても簡単
 
-[dataframe_6.ipynb](https://github.com/o0h/til/blob/master/notes/dataframe_6.ipynb)
+[dataframe_6.ipynb](https://github.com/o0h/til/blob/master/begin-pandas/notes/dataframe_6.ipynb)
 
 ---
 
@@ -146,7 +146,7 @@ next: 表中のデータの絞込がとっても簡単
 
 next: 列や行の追加もとっても簡単
 
-[dataframe_7.ipynb](https://github.com/o0h/til/blob/master/notes/dataframe_7.ipynb)
+[dataframe_7.ipynb](https://github.com/o0h/til/blob/master/begin-pandas/notes/dataframe_7.ipynb)
 
 ---
 
@@ -158,5 +158,5 @@ next: 列や行の追加もとっても簡単
 
 next: 複数の表を結合するのもOK
 
-- [dataframe_8.ipynb](https://github.com/o0h/til/blob/master/notes/dataframe_8.ipynb)
-- [dataframe_9.ipynb](https://github.com/o0h/til/blob/master/notes/dataframe_9.ipynb)
+- [dataframe_8.ipynb](https://github.com/o0h/til/blob/master/begin-pandas/notes/dataframe_8.ipynb)
+- [dataframe_9.ipynb](https://github.com/o0h/til/blob/master/begin-pandas/notes/dataframe_9.ipynb)
